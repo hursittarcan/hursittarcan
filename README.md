@@ -11,7 +11,7 @@
 
 <div align="center">
     <br>
-    <img src="https://metrics.lecoq.io/ashleymavericks?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=hursittarcan&config.timezone=Asia%2FKolkata">
+    <img src="https://metrics.lecoq.io/hursittarcan?template=terminal&languages=1&isocalendar=1&projects=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBrussels">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
